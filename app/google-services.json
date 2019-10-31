@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456459665635",
+    "firebase_url": "https://photosahreapp.firebaseio.com",
+    "project_id": "photosahreapp",
+    "storage_bucket": "photosahreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456459665635:android:c2baeb2c658737d2",
+        "android_client_info": {
+          "package_name": "com.example.photosahreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456459665635-59t5oj3g0qcg4n7cts365slfse1mkntk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photosahreapp",
+            "certificate_hash": "d363eb05e0480be86e874adf50ba33bb6c824343"
+          }
+        },
+        {
+          "client_id": "456459665635-e760o7l4q1747vcmiqfbp865ep5kjunh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwYYzAUnKoHGSbDeVDi8kDVAVc1HWPPYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456459665635-e760o7l4q1747vcmiqfbp865ep5kjunh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
